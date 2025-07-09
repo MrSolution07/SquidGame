@@ -2,11 +2,6 @@
 
 
 ```bash
-python3 -m pytest test_squid_game.py -v
-```
-Perfect! All tests pass. Now let's run the improved game to see the realistic movement in action:
-
-```bash
 python3 squid_game.py
 ```
 
