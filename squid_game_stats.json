@@ -1,0 +1,339 @@
+{
+  "game_config": {
+    "total_players": 50,
+    "game_duration": 30,
+    "light_interval": 5
+  },
+  "statistics": {
+    "total_rounds": 8,
+    "total_eliminations": 18,
+    "green_light_moves": 115,
+    "red_light_moves": 18,
+    "red_light_eliminations": 18,
+    "game_duration": 15.005476713180542
+  },
+  "players": {
+    "remaining": [
+      {
+        "id": "001",
+        "position": 2,
+        "total_moves": 2,
+        "successful_moves": 2
+      },
+      {
+        "id": "002",
+        "position": 2,
+        "total_moves": 2,
+        "successful_moves": 2
+      },
+      {
+        "id": "003",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "005",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "007",
+        "position": 4,
+        "total_moves": 4,
+        "successful_moves": 4
+      },
+      {
+        "id": "008",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "009",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "010",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "012",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "014",
+        "position": 4,
+        "total_moves": 4,
+        "successful_moves": 4
+      },
+      {
+        "id": "019",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "021",
+        "position": 2,
+        "total_moves": 2,
+        "successful_moves": 2
+      },
+      {
+        "id": "022",
+        "position": 4,
+        "total_moves": 4,
+        "successful_moves": 4
+      },
+      {
+        "id": "024",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "025",
+        "position": 1,
+        "total_moves": 1,
+        "successful_moves": 1
+      },
+      {
+        "id": "026",
+        "position": 2,
+        "total_moves": 2,
+        "successful_moves": 2
+      },
+      {
+        "id": "028",
+        "position": 1,
+        "total_moves": 1,
+        "successful_moves": 1
+      },
+      {
+        "id": "029",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "031",
+        "position": 4,
+        "total_moves": 4,
+        "successful_moves": 4
+      },
+      {
+        "id": "033",
+        "position": 2,
+        "total_moves": 2,
+        "successful_moves": 2
+      },
+      {
+        "id": "034",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "035",
+        "position": 2,
+        "total_moves": 2,
+        "successful_moves": 2
+      },
+      {
+        "id": "037",
+        "position": 4,
+        "total_moves": 4,
+        "successful_moves": 4
+      },
+      {
+        "id": "041",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "042",
+        "position": 2,
+        "total_moves": 2,
+        "successful_moves": 2
+      },
+      {
+        "id": "044",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "045",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      },
+      {
+        "id": "046",
+        "position": 2,
+        "total_moves": 2,
+        "successful_moves": 2
+      },
+      {
+        "id": "047",
+        "position": 4,
+        "total_moves": 4,
+        "successful_moves": 4
+      },
+      {
+        "id": "048",
+        "position": 0,
+        "total_moves": 0,
+        "successful_moves": 0
+      },
+      {
+        "id": "049",
+        "position": 1,
+        "total_moves": 1,
+        "successful_moves": 1
+      },
+      {
+        "id": "050",
+        "position": 3,
+        "total_moves": 3,
+        "successful_moves": 3
+      }
+    ],
+    "eliminated": [
+      {
+        "id": "004",
+        "position": 3,
+        "elimination_round": 4,
+        "total_moves": 3,
+        "successful_moves": 2
+      },
+      {
+        "id": "006",
+        "position": 3,
+        "elimination_round": 8,
+        "total_moves": 3,
+        "successful_moves": 2
+      },
+      {
+        "id": "011",
+        "position": 2,
+        "elimination_round": 8,
+        "total_moves": 2,
+        "successful_moves": 1
+      },
+      {
+        "id": "013",
+        "position": 2,
+        "elimination_round": 4,
+        "total_moves": 2,
+        "successful_moves": 1
+      },
+      {
+        "id": "015",
+        "position": 4,
+        "elimination_round": 8,
+        "total_moves": 4,
+        "successful_moves": 3
+      },
+      {
+        "id": "016",
+        "position": 5,
+        "elimination_round": 8,
+        "total_moves": 5,
+        "successful_moves": 4
+      },
+      {
+        "id": "017",
+        "position": 1,
+        "elimination_round": 2,
+        "total_moves": 1,
+        "successful_moves": 0
+      },
+      {
+        "id": "018",
+        "position": 1,
+        "elimination_round": 2,
+        "total_moves": 1,
+        "successful_moves": 0
+      },
+      {
+        "id": "020",
+        "position": 5,
+        "elimination_round": 8,
+        "total_moves": 5,
+        "successful_moves": 4
+      },
+      {
+        "id": "023",
+        "position": 4,
+        "elimination_round": 8,
+        "total_moves": 4,
+        "successful_moves": 3
+      },
+      {
+        "id": "027",
+        "position": 3,
+        "elimination_round": 4,
+        "total_moves": 3,
+        "successful_moves": 2
+      },
+      {
+        "id": "030",
+        "position": 3,
+        "elimination_round": 8,
+        "total_moves": 3,
+        "successful_moves": 2
+      },
+      {
+        "id": "032",
+        "position": 1,
+        "elimination_round": 4,
+        "total_moves": 1,
+        "successful_moves": 0
+      },
+      {
+        "id": "036",
+        "position": 2,
+        "elimination_round": 2,
+        "total_moves": 2,
+        "successful_moves": 1
+      },
+      {
+        "id": "038",
+        "position": 2,
+        "elimination_round": 2,
+        "total_moves": 2,
+        "successful_moves": 1
+      },
+      {
+        "id": "039",
+        "position": 1,
+        "elimination_round": 4,
+        "total_moves": 1,
+        "successful_moves": 0
+      },
+      {
+        "id": "040",
+        "position": 4,
+        "elimination_round": 8,
+        "total_moves": 4,
+        "successful_moves": 3
+      },
+      {
+        "id": "043",
+        "position": 2,
+        "elimination_round": 4,
+        "total_moves": 2,
+        "successful_moves": 1
+      }
+    ]
+  }
+}
