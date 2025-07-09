@@ -25,7 +25,7 @@ This is a realistic Squid Game simulation that recreates the "Red Light, Green L
 - **Progress tracking** with percentage completion
 
 #### **Enhanced Gameplay**
-- **Fixed 2-second light durations** (as you requested)
+- **Fixed 2-second light durations** 
 - **Multiple end conditions**: elimination, finishing, or time expiration
 - **Dynamic outcomes** with different results each game
 - **Rich visual output** with emojis and progress indicators
